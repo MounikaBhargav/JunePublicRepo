@@ -1,2 +1,3 @@
 This is sample text written by mounika
 Today is Friday.
+Today is 30th June
